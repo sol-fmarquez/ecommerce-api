@@ -1,0 +1,24 @@
+{
+  "firstName": "Joe",
+  "lastName": "Smith",
+  "email": "joesmith@yahoo.com",
+  "addresses": []}
+
+}
+{
+  "firstName": "Joe",
+  "lastName": "Smith",
+  "email": "joesmith@yahoo.com"
+},
+
+{
+"firstName": "Jose",
+"lastName": "Cuervo",
+"email": "josecuervo@yahoo.com"
+},
+
+{
+"firstName": "Ken",
+"lastName": "Stewart",
+"email": "kenstewart@yahoo.com"
+}
